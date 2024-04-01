@@ -1,17 +1,32 @@
-package net.javaguides.sms.service;
+package com.example.emp.service;
 
 import java.util.List;
 
-import net.javaguides.sms.entity.Student;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import com.example.emp.domain.Student;
+import com.example.emp.repository.StudentRepository;
 
-public interface StudentService {
-	List<Student> getAllStudents();
-	
-	Student saveStudent(Student student);
-	
-	Student getStudentById(Long id);
-	
-	Student updateStudent(Student student);
-	
-	void deleteStudentById(Long id);
+@Service
+public class StudentService {
+    
+    @Autowired
+    private StudentRepository repo;
+    
+    public List<Student> listAll() {
+        return repo.findAll();
+    }
+     
+    public void save(Student std) {
+        repo.save(std);
+    }
+     
+    public Student get(long id) {
+        return repo.findById(id).get();
+    }
+     
+    public void delete(long id) {
+        repo.deleteById(id);
+    }
+
 }
