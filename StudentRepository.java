@@ -1,9 +1,12 @@
-package net.javaguides.sms.repository;
+package com.example.emp.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
 
-import net.javaguides.sms.entity.Student;
+import com.example.emp.domain.Student;
 
-public interface StudentRepository extends JpaRepository<Student, Long>{
+
+@Repository
+public interface StudentRepository extends JpaRepository<Student, Long> {
 
 }
