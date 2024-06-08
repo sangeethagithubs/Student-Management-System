@@ -11,6 +11,9 @@ Student CRUD Operation using Spring Boot
 
 ![Screenshot 2024-06-08 172420](https://github.com/sangeethagithubs/Student-Management-System/assets/137398167/03031405-4493-4bd1-94fb-08ed84d6fde9)
 
+![Screenshot 2024-06-08 172604](https://github.com/sangeethagithubs/Student-Management-System/assets/137398167/e2e7cfb3-c678-4134-bee0-b42de745a9f6)
+
+
 
 
 
