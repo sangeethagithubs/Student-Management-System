@@ -3,7 +3,8 @@ Student CRUD Management System
 
 Overview
 
-The Student CRUD Management System is a web-based application designed to manage student information efficiently. It allows users to perform CRUD (Create, Read, Update, Delete) operations on student data, including student ID, student name, course, and fee details.
+The Student CRUD Management System is a web-based application designed to manage student information efficiently.
+It allows users to perform CRUD (Create, Read, Update, Delete) operations on student data, including student ID, student name, course, and fee details.
 
 ![Screenshot 2024-06-08 162713](https://github.com/sangeethagithubs/Student-Management-System/assets/137398167/e1dc4c85-b7c8-4b83-a1bd-b266dec0aa41)
 
