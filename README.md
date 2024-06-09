@@ -1,4 +1,3 @@
-![Screenshot 2024-06-08 172712](https://github.com/sangeethagithubs/Student-Management-System/assets/137398167/48936b09-bd49-4c21-96e5-e65e4a0d8260)
 # Student-Management-System
 Student CRUD Management System
 
@@ -7,16 +6,11 @@ Student CRUD Management System
 The Student CRUD Management System is a web-based application designed to manage student information efficiently.
 It allows users to perform CRUD (Create, Read, Update, Delete) operations on student data, including student ID, student name, course, and fee details.
 
-Features:
-
-Add New Student: Create a new student record with a unique student ID, name, course, and fee.
-View Students: Display a list of all students with their respective details.
-Edit Student: Update the information of an existing student.
-Delete Student: Remove a student record from the system.
-
 # Technologies Used:
 Frontend: HTML
+
 Backend: Spring Boot
+
 Database: Mysql
 
 
