@@ -17,7 +17,9 @@ Database: Mysql
 ↪ Adding a New Student
 
 • Click on the "Add Student" button on the homepage.
+
 • Fill in the student details (ID, name, course, fee) in the form.
+
 • Click the "Save" button to save the new student record.
 
 ↪ Viewing Students:
@@ -27,12 +29,15 @@ Database: Mysql
 ↪ Editing a Student:
 
 • Click the "Edit" button next to the student you want to update.
+
 • Modify the student details in the form.
+
 • Click the "Save" button to update the record.
 
 ↪ Deleting a Student:
 
 • Click the "Delete" button next to the student you want to remove.
+
 • Confirm the deletion in the Homepage.
 
 
