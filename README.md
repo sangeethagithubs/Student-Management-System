@@ -1,3 +1,4 @@
+![Screenshot 2024-06-08 172712](https://github.com/sangeethagithubs/Student-Management-System/assets/137398167/48936b09-bd49-4c21-96e5-e65e4a0d8260)
 # Student-Management-System
 Student CRUD Management System
 
@@ -39,7 +40,7 @@ Database: Mysql
 
                        Fig 5. Display students with their respective details.
 
-![Screenshot 2024-06-08 172712](https://github.com/sangeethgithubs/Student-Management-System/assets/137398167/0888b055-aa40-46c8-b786-015cdbd2439c)
+![Screenshot 2024-06-08 172712](https://github.com/sangeethagithubs/Student-Management-System/assets/137398167/48936b09-bd49-4c21-96e5-e65e4a0d8260)
 
                         Fig 6. Update the information of an existing student.
 
