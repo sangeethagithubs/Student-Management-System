@@ -18,7 +18,7 @@ Database: Mysql
 
 • Click on the "Add Student" button on the homepage.
 
-• Fill in the student details (ID, name, course, fee) in the form.
+• Fill in the student details (name, course, fee) in the form.
 
 • Click the "Save" button to save the new student record.
 
